@@ -1,0 +1,42 @@
+body {background-color: black;font-size: 25px;color: white;}
+
+.skills {
+    font-style: monospace;
+    background-color: rgb(5, 5, 5);
+    color: white;
+    border: 2px solid rgb(9, 58, 237);
+    margin: 20px;
+    padding: 20px;
+} 
+
+.cyber {
+    font-style: monospace;
+    background-image: url("cyber123.jpg")
+} 
+
+
+.hacker {
+    font-style: monospace;
+    background-image: url("background123.jpg")
+} 
+
+#main{
+    
+    color:goldenrod;
+}
+
+#main2{
+    color:goldenrod;
+}
+
+#rightpic{
+    float: right;
+    margin: 0 0 5px 5px;
+}
+
+.dream{
+    font-style: monospace;
+    color:white;
+    float: right;
+    clear: right;
+}
